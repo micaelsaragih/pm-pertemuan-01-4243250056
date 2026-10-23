@@ -27,7 +27,7 @@ Keluaran versi lengkap terlihat pada screenshot pemeriksaan environment.
 
 ## Pemeriksaan Environment
 
-![Hasil flutter doctor](docs/flutter-doctor.png)
+![Hasil flutter doctor](docs/flutter-doctor.png/flutter-doctor.png)
 
 Flutter, Android toolchain, dan Chrome telah terdeteksi.
 Visual Studio belum terpasang untuk pengembangan desktop Windows.
@@ -35,7 +35,7 @@ Pengujian aplikasi pada tugas ini dilakukan melalui Chrome.
 
 ## Tampilan Aplikasi
 
-![Aplikasi Hello World dan tombol sapaan](docs/aplikasi.png)
+![Aplikasi Hello World dan tombol sapaan](docs/aplikasi.png/aplikasi.png)
 
 ## Cara Menjalankan
 
